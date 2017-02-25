@@ -1,0 +1,1 @@
+Downloads all current UK Civil Service vacancies as listed on "jobs.civilservice.gov.uk":http://jobs.civilservice.gov.uk 
